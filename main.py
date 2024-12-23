@@ -18,7 +18,7 @@ dict
 None
 
 # Fundamental Data Types
-int
+# int and float
 print(type(2+4)) 
 print(type(2-4)) 
 print(type(2*4)) 
@@ -27,4 +27,6 @@ print(type(2/4))
 
 print(type(0))
 
-float
+print(2 ** 3)  # power
+print(2 // 4)  #?? 
+print(2%4) # modulo or remainder
